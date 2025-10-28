@@ -51,7 +51,7 @@
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+- 🔗 [1505-prinsu/DRM-and-ZIP-Uploader](https://github.com/1505-prinsu/DRM-and-ZIP-Uploader)
 
 ---
 
