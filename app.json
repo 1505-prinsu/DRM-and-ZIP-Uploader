@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/hackercoder24/updatetxt2vid",
-    "success_url": "https://telegram.me/diljalechatsherebot",
+    "repository": "https://github.com/1505-prinsu/DRM-and-ZIP-Uploader",
+    "success_url": "https://telegram.me/Aonadost_1505bot" ,
     "stack": "container",
     "env": {
         "API_ID": {
