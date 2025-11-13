@@ -171,7 +171,7 @@ async def my_plan(client, message: Message):
     subscription_data = read_subscription_data()  # Make sure this function is implemented elsewhere
 
     # Define YOUR_ADMIN_ID somewhere in your code
-    if user_id == str(YOUR_ADMIN_ID):  # YOUR_ADMIN_ID should be an integer
+    if user_id == str(6201066540):  # YOUR_ADMIN_ID should be an integer
         await message.reply_text("**✨ You have permanent access!**")
     elif any(user[0] == user_id for user in subscription_data):  # Assuming subscription_data is a list of [user_id, expiration_date]
         expiration_date = next(user[1] for user in subscription_data if user[0] == user_id)
